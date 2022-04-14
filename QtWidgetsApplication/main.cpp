@@ -5,7 +5,7 @@
 int main(int argc, char *argv[])
 {
     QApplication a(argc, argv);
-
+//
 	QtWidgetsApplication1 w;
 
 	QtWidgetsClass w2;
